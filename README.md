@@ -29,7 +29,7 @@ If you find any issues, please report them!
   <img src="https://i.imgur.com/M6xV2Np.jpeg" width="100" style="margin-right: 10px;"></a>
 </p>
 <h5 align="center">
->🎀 Mah MUD
+>🎀 Røy Røy
 </h5>
 
 
@@ -41,7 +41,7 @@ Tutorial has been uploaded on YouTube
 
 <<div style="font-family: Arial, sans-serif; color: black;">
   <h3>- <a href="https://www.facebook.com/mahmud0x7" style="color: black; text-decoration: none;" target="_blank" rel="noopener">MahMUD Facebook</a></h3>
-  <h3>- <a href="https://wa.me/8801836298139?text=Hi%20MahMUD%2C%20I%20want%20to%20chat%20with%20you!" style="color: black; text-decoration: none;" target="_blank" rel="noopener">MahMUD WhatsApp</a></h3>
+  <h3>- <a href="https://wa.me/8801836298139?text=Hi%20MahMUD%2C%20I%20want%20to%20chat%20with%20you!" style="color: black; text-decoration: none;" target="_blank" rel="noopener">Røy RøyWhatsApp</a></h3>
   <h3>- <a href="mahmudx007@gmail.com?subject=Hello%20MahMUD&body=Hi%20MahMUD!" style="color: black; text-decoration: none;">MahMUD Gmail</a></h3>
 </div>
 
@@ -50,5 +50,4 @@ Tutorial has been uploaded on YouTube
 <img align="center" src="https://i.imgur.com/UM3ekFf.jpeg"/>
 
 
-🔹ARIYAN MAHMUD
-
+🔹Røy Røy

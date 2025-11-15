@@ -1,6 +1,6 @@
 {
   "facebookAccount": {
-    "email": "mahmudx077@gmail.com",
+    "email": "roybot123bot@gmail.com",
     "password": "",
     "2FASecret": "",
     "i_user": "",
@@ -17,14 +17,14 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "100037951718438"
+    "100042152652393"
   ],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "Your Hinata Baby",
+  "nickNameBot": "Røy ñørã bot",
   "prefix": "!",
   "database": {
     "type": "sqlite",
