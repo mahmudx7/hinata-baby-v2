@@ -17,7 +17,7 @@ module.exports = {
     name: "pair",
     version: "1.7",
     author: "MahMUD",
-    category: "love",
+    category: "Friendship",
     guide: "{pn}",
   },
 
