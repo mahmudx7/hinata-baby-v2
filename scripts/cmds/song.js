@@ -51,7 +51,7 @@ module.exports = {
                 const { threadID, messageID, senderID } = event;
                 const input = args.join(" ");
 
-                if (!input) return api.sendMessage("• বেবি, গানের নাম বা লিঙ্ক দিন! 🎶", threadID, messageID);
+                if (!input) return api.sendMessage("• Please provide a song name or send link.", threadID, messageID);
 
                 const apiUrl = await baseApiUrl();
                 const checkurl = /^(?:https?:\/\/)?(?:m\.|www\.)?(?:youtu\.be\/|youtube\.com\/(?:embed\/|v\/|watch\?v=|watch\?.+&v=|shorts\/))((\w|-){11})(?:\S+)?$/;
