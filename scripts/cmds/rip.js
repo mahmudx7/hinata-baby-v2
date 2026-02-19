@@ -77,7 +77,7 @@ module.exports = {
                                 body: getLang("success"),
                                 attachment: fs.createReadStream(filePath)
                         }, () => {
-                                api.setMessageReaction("✅", messageID, () => {}, true);
+                                api.setMessageReaction("🪽", messageID, () => {}, true);
                                 if (fs.existsSync(filePath)) fs.unlinkSync(filePath);
                         });
 
